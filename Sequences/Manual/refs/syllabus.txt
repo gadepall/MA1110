@@ -1,0 +1,6 @@
+ELEMENTS OF BASIC CALCULUS-I
+Sequences and Series: Limit of a sequence, monotone and Cauchy sequences and properties of
+convergent sequences, examples. Infinite series, positive series, tests for convergence and
+divergence, integral test, alternating series, Leibnitz test. Differential Calculus: Continuity and
+differentiability of a function of single variable, statement of Rolle’s Theorem, Lagrange’s mean
+value theorem and applications.
